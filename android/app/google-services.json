@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "450299566130",
+    "project_id": "hatirla-7eff2",
+    "storage_bucket": "hatirla-7eff2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450299566130:android:5f2faa5d85f7ed126c842b",
+        "android_client_info": {
+          "package_name": "com.example.hatirla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450299566130-ta63v8sn4rh9e20cvbovp9bu2q14m7dt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0KyS1YfhAnDdFvnra0nlXYi_ApAKk6e4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450299566130-ta63v8sn4rh9e20cvbovp9bu2q14m7dt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

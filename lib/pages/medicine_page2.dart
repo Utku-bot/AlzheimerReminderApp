@@ -117,7 +117,7 @@ class _MedicinePage2State extends State<MedicinePage2> {
         actions: [
           MaterialButton(onPressed: (){
            medBox.clear();
-          }, child: const Text("Tüm Listeyi Sil",style: TextStyle(fontSize: 10),),color: Colors.,),
+          }, child: const Text("Tüm Listeyi Sil",style: TextStyle(fontSize: 10),),color: Colors.greenAccent,),
         ],
 
       ),
